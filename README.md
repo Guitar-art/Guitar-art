@@ -9,7 +9,7 @@ Hi! I'm a Computer Engineering student passionate about technology, software dev
 
 🌱 Currently learning Python, JavaScript, and Git
 
-📫 How to reach me: [your.email@example.com]
+📫 How to reach me: [thatchapong.p68@rsu.ac.th.com]
 
 🌍 Based in [Your Country/City]
 
