@@ -1,16 +1,17 @@
 ## Hi there 👋 Myname is Guitar
 University student majoring in computer engineering [ CPE ]
-<!--
-**Guitar-art/Guitar-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About Me
+Hi! I'm a Computer Engineering student passionate about technology, software development, and continuous learning. I'm currently focusing on improving my skills in programming, data structures, and software engineering principles.
 
-Here are some ideas to get you started:
+🎓 Studying Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Web Development, AI, and Open Source
+
+🌱 Currently learning Python, JavaScript, and Git
+
+📫 How to reach me: [your.email@example.com]
+
+🌍 Based in [Your Country/City]
+
+I enjoy building projects, solving problems, and collaborating with others. Feel free to check out my repositories!
+
