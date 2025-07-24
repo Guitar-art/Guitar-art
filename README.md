@@ -15,3 +15,8 @@ Hi! I'm a Computer Engineering student passionate about technology, software dev
 
 I enjoy building projects, solving problems, and collaborating with others. Feel free to check out my repositories!
 
+Skills
+CC ++ PythonJava
+
+Socials
+Github Instragram
