@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 Myname is Guitar
+University student majoring in computer engineering [ CPE ]
 <!--
 **Guitar-art/Guitar-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
